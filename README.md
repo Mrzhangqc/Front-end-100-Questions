@@ -7,3 +7,4 @@ Front-end development of 100 questions
 3. 硬件加速   
 4. http协议   
 5. js浮点数运算   
+6. 堆栈的理解
