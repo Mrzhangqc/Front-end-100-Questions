@@ -6,5 +6,5 @@ Front-end development of 100 questions
 2. [页面渲染](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/2)   
 3. 硬件加速   
 4. http协议   
-5. js浮点数运算   
+5. js浮点数运算(https://github.com/Mrzhangqc/Front-end-100-Questions/issues/13)
 6. [堆栈的理解](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/14)   
