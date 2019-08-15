@@ -1,6 +1,6 @@
 # Front-end-100-Questions
 Front-end development of 100 questions   
-`驱动学习，及工作中遇到的问题总结`    
+`自我驱动学习，及工作中遇到的问题总结`    
 
 1. [浏览器内核](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/1)   
 2. [页面渲染](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/2)   
@@ -8,3 +8,5 @@ Front-end development of 100 questions
 4. http协议   
 5. [js浮点数运算](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/13)
 6. [堆栈的理解](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/14)   
+7. css盒模型   
+8. div双边距   
