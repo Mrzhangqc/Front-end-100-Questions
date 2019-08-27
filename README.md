@@ -10,3 +10,4 @@ Front-end development of 100 questions
 6. [堆栈的理解](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/14)   
 7. css盒模型   
 8. div双边距   
+9. svg与其他图片格式比较  
