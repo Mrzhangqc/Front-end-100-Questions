@@ -12,4 +12,4 @@ Front-end development of 100 questions
 8. div双边距   
 9. [svg与其他图片格式比较](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/15)  
 10. [节流与防抖](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/16)  
-11. [js基本数据类型](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/17)  
+11. [js数据类型](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/17)  
