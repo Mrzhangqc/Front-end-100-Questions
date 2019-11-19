@@ -14,3 +14,4 @@ Front-end development of 100 questions
 10. [节流与防抖](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/16)  
 11. [JS数据类型](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/17)  
 12. [字符串常用方法](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/18) 
+13. [为什么使用TypeScript ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/19) 
