@@ -15,6 +15,6 @@ Front-end development of 100 questions
 11. [JS数据类型](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/17)  
 12. [字符串常用方法](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/18) 
 13. [为什么使用TypeScript ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/19) 
-14. [什么是前后端分离,是如何应用的 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/22) 
+14. [什么是前后端分离,是如何应用的 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/23) 
 15. [git克隆项目后怎么切换分支 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/21) 
-16. [什么是作用域 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/23) 
+16. [什么是作用域 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/22) 
