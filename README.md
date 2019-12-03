@@ -20,4 +20,4 @@ Front-end development of 100 questions
 16. [什么是作用域 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/22) 
 17. [怎么实现继承 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/23) 
 18. [HTTP状态码](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/24) 
-19. [为什么Vue组件的data属性必须是个函数](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/25)
+19. [为什么Vue组件的data属性必须是个函数 ?](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/25)
