@@ -24,4 +24,4 @@ Front-end development of 100 questions
 20. [如何渲染万条数据不卡住页面 ？](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/27)
 21. [如何使用CSS绘制边框动画？](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/28)
 22. [如何实现并发请求](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/29)
-23. [数据转树](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/30)
+23. [数组转树](https://github.com/Mrzhangqc/Front-end-100-Questions/issues/30)
